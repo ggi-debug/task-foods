@@ -1,0 +1,37 @@
+{
+  "id": "3473950",
+  "name": "tastfood",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "外卖小程序",
+  "glyphs": [
+    {
+      "icon_id": "591727",
+      "name": "wxb搜索推广",
+      "font_class": "wxbsousuotuiguang",
+      "unicode": "e620",
+      "unicode_decimal": 58912
+    },
+    {
+      "icon_id": "2170946",
+      "name": "我的-我的",
+      "font_class": "wode-wode",
+      "unicode": "e60d",
+      "unicode_decimal": 58893
+    },
+    {
+      "icon_id": "5122079",
+      "name": "订单",
+      "font_class": "dingdan-",
+      "unicode": "e609",
+      "unicode_decimal": 58889
+    },
+    {
+      "icon_id": "9297205",
+      "name": "外卖",
+      "font_class": "waimai",
+      "unicode": "e61b",
+      "unicode_decimal": 58907
+    }
+  ]
+}
